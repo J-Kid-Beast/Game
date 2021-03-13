@@ -11,4 +11,3 @@ Please go to the Project IceMan Specification Document found in this repository 
 
 ![](images/image6.png)
 
-![](master/Iceman%20Project%20Specification%20Document.pdf)
